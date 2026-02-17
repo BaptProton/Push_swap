@@ -72,6 +72,6 @@ ARG="4 67 3 87 23"; ./push_swap $ARG | ./checker_linux $ARG
 After refactoring, the repository is organized like this:
 
 - `src/`: mandatory project sources
-- `headers/`: project headers (`push_swap.h`)
+- `include/`: project headers (`push_swap.h`)
 - `libft/`: your Libft
 - `Makefile`: builds `push_swap` and `libft`

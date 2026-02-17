@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   Errors_Check.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bproton <bproton@student.42.fr>            +#+  +:+       +#+        */
+/*   By: proton <proton@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/15 14:56:15 by bproton           #+#    #+#             */
-/*   Updated: 2024/02/28 11:39:58 by bproton          ###   ########.fr       */
+/*   Updated: 2026/02/17 12:03:52 by proton           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../include/push_swap.h"
 
 int	check_errors_in_str(char *str)
 {

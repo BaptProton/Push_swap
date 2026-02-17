@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   list_related.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bproton <bproton@student.42.fr>            +#+  +:+       +#+        */
+/*   By: proton <proton@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/17 12:13:52 by bproton           #+#    #+#             */
-/*   Updated: 2024/02/23 13:46:06 by bproton          ###   ########.fr       */
+/*   Updated: 2026/02/17 12:03:52 by proton           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../include/push_swap.h"
 
 void	add_node(t_stack **stack_a, int i)
 {

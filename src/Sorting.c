@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   Sorting.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bproton <bproton@student.42.fr>            +#+  +:+       +#+        */
+/*   By: proton <proton@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/31 12:16:39 by bproton           #+#    #+#             */
-/*   Updated: 2024/02/23 13:26:25 by bproton          ###   ########.fr       */
+/*   Updated: 2026/02/17 12:03:52 by proton           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../include/push_swap.h"
 
 static	void	rotate_a(t_stack **s_a, t_stack *cheapest)
 {

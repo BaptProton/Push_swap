@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   sort_helper.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bproton <bproton@student.42.fr>            +#+  +:+       +#+        */
+/*   By: proton <proton@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/02/13 11:06:15 by bproton           #+#    #+#             */
-/*   Updated: 2024/02/23 13:26:23 by bproton          ###   ########.fr       */
+/*   Updated: 2026/02/17 12:03:52 by proton           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../include/push_swap.h"
 
 t_stack	*find_smallest(t_stack *stacka)
 {

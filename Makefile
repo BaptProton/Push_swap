@@ -6,7 +6,7 @@
 #    By: proton <proton@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/12/13 16:17:05 by bproton           #+#    #+#              #
-#    Updated: 2026/02/16 14:53:43 by proton           ###   ########.fr        #
+#    Updated: 2026/02/17 12:02:07 by proton           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -15,7 +15,7 @@ CC = gcc
 CFLAGS = -Wall -Wextra -Werror
 
 SRCDIR = src
-INCDIR = headers
+INCDIR = include
 OBJDIR = obj
 
 LIBFTDIR = libft

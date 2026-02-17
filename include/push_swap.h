@@ -6,7 +6,7 @@
 /*   By: proton <proton@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/13 14:05:14 by bproton           #+#    #+#             */
-/*   Updated: 2026/02/16 14:53:43 by proton           ###   ########.fr       */
+/*   Updated: 2026/02/17 12:03:52 by proton           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@
 # include <unistd.h>
 # include <fcntl.h>
 # include <limits.h>
-# include "libft.h"
+# include "../libft/libft.h"
 
 typedef struct s_count
 {

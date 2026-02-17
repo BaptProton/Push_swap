@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   instruction_ra_rb_rr.c                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bproton <bproton@student.42.fr>            +#+  +:+       +#+        */
+/*   By: proton <proton@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/02/01 10:54:20 by bproton           #+#    #+#             */
-/*   Updated: 2024/02/21 15:09:17 by bproton          ###   ########.fr       */
+/*   Updated: 2026/02/17 12:03:52 by proton           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../include/push_swap.h"
 
 static	int	ra_rb_rr(t_stack **stack)
 {
